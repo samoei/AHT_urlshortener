@@ -1,0 +1,16 @@
+
+This is a small project i worked on during the AHT - Nairobi Hackathon.
+
+Installation
+
+Extract the downloaded files to your www directory.
+
+Features and Tweaks For Improvement
+
+As the AHT crew are going to visit other cities in East Africa i would recommend the following tweaks and features for this web app in the subsequent hackathons
+
+=> A database configuration interface for setting up the database name and table. Currently the database is hardcoded on the db.inc.php folder.
+=> The base domain name is also hardcoded to www.samphiltech.com. it should be optional for a user to use his/her domain name or something alse shorter
+=> currently these app is unsing the old (about to be deprcated)  mysql functions to make db calls. this should be changed to either mysqli or PDO    
+   functions
+=>The overall design (look and feel) of the web app should also be improved.
