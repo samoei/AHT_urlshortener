@@ -1,0 +1,15 @@
+/* 
+    Document   : font
+    Created on : Sep 25, 2013, 5:46:06 PM
+    Author     : samphil
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+@font-face {
+     font-family: 'MinionProItalic';
+     src: url('fonts/minionpro-it-webfont.eot');
+     src: url('fonts/minionpro-it-webfont.woff') format('woff'), url('fonts/minionpro-it-webfont.ttf') format('truetype'), url('fonts/minionpro-it-webfont.svg#webfontZoznjOhT') format('svg');
+     font-weight: normal;
+     font-style: normal;
+}
